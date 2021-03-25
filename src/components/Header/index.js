@@ -13,7 +13,7 @@ export default function Header(){
                 color='#FFF'
                 size={150}
             />
-            <Text style={style.temp}>30o</Text>
+            <Text style={style.temp}>30°</Text>
         </LinearGradient>
     )
 }
